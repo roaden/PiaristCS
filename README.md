@@ -4,7 +4,7 @@ Welcome to the Piarist Computer Science course!
 
 Week 0:
 
-Make a github account.  Make a scratch account.  Have some way to access bash, or be willing to teach yourself how to do everything I show you in your own way.  (The linux subsystem for Windows works great for that, and that's what I use at home for my own projects.)
+Make a github account.  Make a scratch account.  Make a slack account. Have some way to access bash, or be willing to teach yourself how to do everything I show you in your own way.  (The linux subsystem for Windows works great for that, and that's what I use at home for my own projects.)
 
 Watch the video for week 0 in the Harvard CS-50 course.  You can skip over the bit about introducing the teaching assistants for the course--we don't know them--but certainly watch the bit afterward about scratch.  Because, your first assignment is:
 
