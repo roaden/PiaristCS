@@ -2,6 +2,23 @@
 
 Welcome to the Piarist Computer Science course!
 
+Week 1:
+
+Instructions for using git:
+
+To add all the work you've done (must be in directory of repository):
+
+git add .
+
+To commit the changes, type:
+
+git commit -m "A description of the changes."
+
+To push it to the server:
+
+git push
+
+
 Week 0:
 
 Make a github account.  Make a scratch account.  Make a slack account. Have some way to access bash, or be willing to teach yourself how to do everything I show you in your own way.  (The linux subsystem for Windows works great for that, and that's what I use at home for my own projects.)
