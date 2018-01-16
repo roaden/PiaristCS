@@ -1,0 +1,17 @@
+This is an example file for how to add things to a git repository.
+
+I'm reminding myself that I want to type (in the base directory, or at least the directory where changes were made):
+
+git add .
+
+to add the files that were changed.
+
+Then I have to commit my changes by typing:
+
+git commit -m "A description of the changes made."
+
+Then, to get them onto the website, I need to type
+
+git push
+
+Now, as long as I'm in the directory with a git repository, this should all work out juuuuust fine!
