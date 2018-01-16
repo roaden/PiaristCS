@@ -1,0 +1,45 @@
+Implement a Caesar cypher.  This is the sort of thing I'm looking for.
+
+Minimum success:
+1.) Something that takes a lowercase word and shifts all the letters 13 letters forward (or backward) in the alphabet. (20 pts)
+
+Getting better:
+2.) Include uppercase letters too!  (20 pts)
+
+And wouldn't it be nice if ...
+3.) The cypher didn't touch anything that wasn't a letter in the string, so I could (de)cypher all sorts of phrases! (20 pts)
+
+Better still:
+4.) Make it happen inside a loop, so that I can keep cyphering / decyphering. (20 pts)
+
+Ideally:
+5.) Have that loop exit when some exit word is typed.  Make sure to print out what that is when the program starts! (20 pts)
+
+
+This one's a bit more involved, so, make good use of your snow days!
+
+Here's the sample output that I got when I ran the program.
+
+(The $ represents being at the prompt.)
+
+
+$ python3 caesar.py
+Type what you want Caesar to obfuscate, or type quit to exit!
+Sec
+Frp
+Frp
+Sec
+This class is a class.  Yay.
+Guvf pynff vf n pynff.  Lnl.
+Guvf pynff vf n pynff.  Lnl.
+This class is a class.  Yay.
+Isn't.
+Vfa'g.
+C L A P
+P Y N C
+P Y N C
+C L A P
+rotate
+ebgngr
+quit
+$
