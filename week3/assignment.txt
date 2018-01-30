@@ -1,0 +1,5 @@
+For this week, you are to implement, in Python,
+your own take on the cowsay *nix program.
+
+You need to use function(s) to print the message in a little box, and
+read in the ascii art from a file.
