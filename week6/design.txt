@@ -1,0 +1,9 @@
+Simon style game.
+
+Clear the screen.
+
+Draw the simon thing using arrow keys.
+
+Make arrow keys flash when showing the game.
+
+
