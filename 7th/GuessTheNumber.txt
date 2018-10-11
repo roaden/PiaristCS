@@ -1,0 +1,42 @@
+#  pick a number between 1 and 100
+#  Tell the user to guess a number
+#  If they're right, tell them, and ask if
+#they want to play again.
+#  If they're wrong, tell them they're wrong,
+#and tell them if they guessed too low
+#or too high.
+#  Let them guess again, up to a certain
+#number of tries.
+#  If they run out of tries, end the game,
+#ask if they want to play again.
+#  Do it all again if they say yes, otherwise
+#exit.
+
+
+
+I'm thinking of an number between 1 and 100.
+
+Take a guess!
+> 32
+
+That's too high!  Try again!
+
+> 15
+
+That's too low!  Try again!
+
+> 20
+
+That's it!  You got it!
+
+Want to play again? (y/n)
+> y
+
+I'm thinking of a number between 1 and 100.
+....
+
+Want to play again? (y/n)
+> n
+
+Goodbye!
+(Exits)
